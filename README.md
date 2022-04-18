@@ -100,7 +100,7 @@ GoogleAnalyticsは、ファーストパーティCookieを利用してアクセ�
 
 GoogleAnalyticsによって収集される情報については匿名で収集されており、個人を特定するものではありません。
 
-GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が提供しているもの（[http://www.google.com/intl/ja/policies/privacy/）をご確認ください。](http://www.google.com/intl/ja/policies/privacy/%EF%BC%89%E3%82%92%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)
+GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が提供しているもの（ [http://www.google.com/intl/ja/policies/privacy/](http://www.google.com/intl/ja/policies/privacy/%EF%BC%89%E3%82%92%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82) ）をご確認ください。
 
 ### **8.** **ユーザー情報の開示・訂正等**
 
@@ -117,7 +117,7 @@ GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が
 
 ## AI・データサイエンス人材育成プログラム向けプライバシーポリシー
 
-本ポリシーは、当社が当社のウェブサイト（[https://www.kikagaku.ai](https://www.kikagaku.ai/)）上で提供するAI・データサイエンス人材育成プログラムサービス」（以下「本サービス」といいます。）の利用に関し適用されます。また、当社が、本サービス上に掲載するプライバシーポリシーその他の個人情報保護方針又は利用規約等においてユーザー情報の取扱いについて規定する場合、当該規定も適用されるものとし、当該規定が本ポリシーと抵触する場合には、本ポリシーが優先されるものとします。
+本ポリシーは、当社が当社のウェブサイト（ [https://www.kikagaku.ai](https://www.kikagaku.ai/) ）上で提供するAI・データサイエンス人材育成プログラムサービス」（以下「本サービス」といいます。）の利用に関し適用されます。また、当社が、本サービス上に掲載するプライバシーポリシーその他の個人情報保護方針又は利用規約等においてユーザー情報の取扱いについて規定する場合、当該規定も適用されるものとし、当該規定が本ポリシーと抵触する場合には、本ポリシーが優先されるものとします。
 ２ 当社が本サービスに関して提携する外部のサービスその他当社以外の者が提供するサービス（以下「提携サービス等」といいます。）については、本ポリシーの規定は適用されません。提携サービス等における利用者情報の取扱いについては、当該提携サービス等を提供する事業者が別途定めるプライバシーポリシー等をご参照ください。
 
 ### 1. ユーザー情報
@@ -179,7 +179,7 @@ GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が
 当社の本サービスでは利用状況把握のため、Google Inc.が提供するアクセス解析ツール「GoogleAnalytics」を利用しています。
 GoogleAnalyticsは、ファーストパーティCookieを利用してアクセス情報を収集しています。
 GoogleAnalyticsによって収集される情報については匿名で収集されており、個人を特定するものではありません。
-GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が提供しているもの（[http://www.google.com/intl/ja/policies/privacy/）をご確認ください。](http://www.google.com/intl/ja/policies/privacy/%EF%BC%89%E3%82%92%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)
+GoogleAnalyticsのプライバシーポリシーについては、Google Inc.が提供しているもの（ [http://www.google.com/intl/ja/policies/privacy/](http://www.google.com/intl/ja/policies/privacy/%EF%BC%89%E3%82%92%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82) ）をご確認ください。
 
 ### 8. ユーザー情報の開示・訂正等
 
