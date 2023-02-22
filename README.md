@@ -32,7 +32,7 @@
 株式会社キカガク 代表取締役社長 大崎将寛
 
 
-原則「[一般ユーザー向けプライバシーポリシー](https://github.com/kikagaku/privacypolicy/blob/master/README.md#%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されますが、AI・データサイエンス実践プログラムの方には「[AI・データサイエンス実践プログラム向けプライバシーポリシー](https://github.com/kikagaku/privacypolicy/blob/master/README.md#ai%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されます。ご自身に適用されるものをご確認ください。
+原則「[一般ユーザー向けプライバシーポリシー](https://github.com/kikagaku/privacypolicy/blob/master/README.md#%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されますが、AI・データサイエンス実践プログラムの方には「[AI・データサイエンス実践プログラム向けプライバシーポリシー](https://github.com/kikagaku/privacypolicy/blob/master/README.md#ai%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E5%AE%9F%E8%B7%B5%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されます。ご自身に適用されるものをご確認ください。
 
 ## 一般ユーザー向けプライバシーポリシー
 
